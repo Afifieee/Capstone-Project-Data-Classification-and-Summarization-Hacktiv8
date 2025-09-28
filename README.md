@@ -6,7 +6,21 @@ This project analyzes data from a local homeless shelter to uncover insights on 
 
 ## 📂 Dataset
 
-- Dataset: https://www.kaggle.com/datasets/rezag7/homeless-dataset/data 
+- Dataset: https://www.kaggle.com/datasets/rezag7/homeless-dataset/data
+
+     This dataset consists of data from a local homeless shelter that has gathered data on their homeless population seeking shelter.
+
+     - CLIENT_KEY: This represents unique identifier of each client seeking shelter
+     - AGE: This is the age of the client seeking shelter
+     - GENDER: This is the gender of the client seeking shelter
+     - VETERAN: This is an indicator to indicate if the client is a veteran or not
+     - INCOME: This is the yearly income of the client seeking shelter
+     - NIGHTS: This is the number of nights the client seeking shelter has stayed at the shelter
+     - SUBSTANCEABUSE: This is an indicator to indicate if the client has substance abuse or not
+     - COMPLETED: This is an indicator to indicate if the client has completed shelters program
+     - PROBATION: This is an indicator to indicate if the client is on probation or not
+     - ASSISTANCETYPE: This is the different types of assistance offered from the shelter
+     - REQUIRED: This is an indicator to determin which assitance the client is requiring
 
 ## 🔍 Insights & Findings (berdasarkan output AI Granite)
 
